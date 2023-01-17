@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'calculator.dart';
+part of 'calculator_notifier.dart';
 
 // **************************************************************************
 // RiverpodGenerator
@@ -30,7 +30,7 @@ class _SystemHash {
 }
 
 String _$CalculatorStateNotifierHash() =>
-    r'58281bc5915d778d0a87d05a597eaf95ca051702';
+    r'51dd8844622a751017ee2de2dce01b67d6ac8b2b';
 
 /// See also [CalculatorStateNotifier].
 final calculatorStateNotifierProvider =
